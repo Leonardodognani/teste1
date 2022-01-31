@@ -1,0 +1,15 @@
+C:\Users\vntrodo\desktop\estudos\teste1\bin\Debug\net6.0\teste1.exe
+C:\Users\vntrodo\desktop\estudos\teste1\bin\Debug\net6.0\teste1.deps.json
+C:\Users\vntrodo\desktop\estudos\teste1\bin\Debug\net6.0\teste1.runtimeconfig.json
+C:\Users\vntrodo\desktop\estudos\teste1\bin\Debug\net6.0\teste1.dll
+C:\Users\vntrodo\desktop\estudos\teste1\bin\Debug\net6.0\ref\teste1.dll
+C:\Users\vntrodo\desktop\estudos\teste1\bin\Debug\net6.0\teste1.pdb
+C:\Users\vntrodo\desktop\estudos\teste1\obj\Debug\net6.0\teste1.csproj.AssemblyReference.cache
+C:\Users\vntrodo\desktop\estudos\teste1\obj\Debug\net6.0\teste1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vntrodo\desktop\estudos\teste1\obj\Debug\net6.0\teste1.AssemblyInfoInputs.cache
+C:\Users\vntrodo\desktop\estudos\teste1\obj\Debug\net6.0\teste1.AssemblyInfo.cs
+C:\Users\vntrodo\desktop\estudos\teste1\obj\Debug\net6.0\teste1.csproj.CoreCompileInputs.cache
+C:\Users\vntrodo\desktop\estudos\teste1\obj\Debug\net6.0\teste1.dll
+C:\Users\vntrodo\desktop\estudos\teste1\obj\Debug\net6.0\ref\teste1.dll
+C:\Users\vntrodo\desktop\estudos\teste1\obj\Debug\net6.0\teste1.pdb
+C:\Users\vntrodo\desktop\estudos\teste1\obj\Debug\net6.0\teste1.genruntimeconfig.cache
